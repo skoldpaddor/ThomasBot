@@ -4,7 +4,7 @@ const setupCMD = "!createrolemessage"
 let initialMessage = `**Hi, I'm Thomas, react to the messages below to receive the associated role! / Привет, я Томас , нажми на эмодзи внизу чтобы получить роль!**`;
 const roles = ["ru", "eng", "🚂Thomas Friends🚂", "🔞NSFW🔞"];
 const reactions = ["flag_ru", "flag_gb", "thomas", "heheboi"];
-const botToken = process.env.token;
+const botToken = "NTMyNDM5MzkxMjI2ODIyNjY2.Dxcjow.ju0QMPknV6hs7PvmHw3wmWQBKCI";
 
 //Load up the bot...
 const Discord = require('discord.js');
