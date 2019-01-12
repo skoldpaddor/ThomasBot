@@ -1,0 +1,15 @@
+{
+  "name": "thomasbot",
+  "version": "1.0.0",
+  "description": "A bot that automatically assigns roles based on message reactions.",
+  "main": "roleReact.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
