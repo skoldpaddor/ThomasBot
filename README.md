@@ -1,4 +1,4 @@
-# Discord-RoleReact
+# Discord-Thomasbot
 
 A bot that automatically assigns roles based on message reactions.
 
